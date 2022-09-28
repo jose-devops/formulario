@@ -1,0 +1,33 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+form{
+    width: 80%;
+    padding: 10px 10px;
+    background-color: #0a0909;
+    margin-top: 20px;
+    border-radius: 10px;
+    color: rgb(248, 4, 4);
+    font-family: monospace;
+    border: solid red;
+    box-shadow: #ff6347 4px 6px 4px;
+    
+}
+
+#erro{
+    width: 90%;
+    height: 40px;
+    background-color: rgba(41, 39, 39, 0.438);
+    color: rgb(219, 22, 22);
+    padding: 8px;
+    border-radius: 10px ;
+    text-align: center;
+}
+
+.cadastro{
+    text-shadow: #d41010 4px 6px 4px ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
